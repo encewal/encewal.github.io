@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://encewal.github.io/sitemap.html
+Sitemap: https://encewal.github.io/app/sitemap.html
+Sitemap: https://encewal.github.io/assets/sitemap.html
+Sitemap: https://encewal.github.io/includes/sitemap.html
+Sitemap: https://encewal.github.io/src/sitemap.html
